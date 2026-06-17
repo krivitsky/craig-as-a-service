@@ -1,14 +1,4 @@
 <p align="center">
-  <a href="https://github.com/krivitsky/ghosttown"><img src="https://raw.githubusercontent.com/krivitsky/ghosttown/main/images/logo.png" alt="Ghosttown" width="96"></a>
-</p>
-
-<p align="center">
-  👻 A white-label <a href="https://github.com/krivitsky/ghosttown">Ghosttown</a> implementation — Craig Larman's corpus extracted into a standalone IA persona.
-</p>
-
----
-
-<p align="center">
   <img src="images/bolo-tie-icon.png" alt="Craig Larman" width="256">
 </p>
 
@@ -75,22 +65,6 @@ See [writing voice and full prompt](.claude/commands/craig.md).
 
 ---
 
-## 👻 Built on Ghosttown
-
-Craig-as-a-Service is a white-label implementation of [Ghosttown](https://github.com/krivitsky/ghosttown) — the open-source expert IA extraction framework.
-
-Ghosttown's four-pass pipeline (heuristics → principles → biases → voice) was run over Craig's email corpus to produce the persona that powers this repo. The structure here — corpus, extraction, packaged skill — is the same pattern Ghosttown automates for any expert.
-
-Craig-as-a-Service was the hand-built proof of concept. Ghosttown is the factory.
-
-**What this means in practice:**
-
-- This repo is a standalone Ghosttown dataset, scoped to one person
-- The `/craig` skill is what a Ghosttown-produced ghost looks like when shipped as its own product
-- To build something like this for a different expert, start at [Ghosttown](https://github.com/krivitsky/ghosttown)
-
----
-
 # Craig Larman's Major AI Predictions
  
 Coined **GLAD (Generative LLM-Assisted Development)** acronym for **AI-assisted software development**. 
@@ -142,3 +116,21 @@ Envisions new HR archetype: **"product developer"** with multi-learning career p
 - "More outcomes, less outputs" is a persistent refrain: quantified goals over feature lists (Duolingo's retention-metric teams, Tom Gilb's value management from the 1970s).
 - Regards most "agile" adoptions as change theater covering for Law #1 dynamics (role protection). The HBR "10 Signs of Change Resistance" list, he says, describes 97% of agile adoptions.
 - LeSS market opportunity grows precisely as GLAD exposes the absurdity of single-specialist org structures that frameworks like SAFe are built around.
+
+---
+
+## 👻 Built on Ghosttown
+
+<p align="center">
+  <a href="https://github.com/krivitsky/ghosttown"><img src="https://raw.githubusercontent.com/krivitsky/ghosttown/main/images/logo.png" alt="Ghosttown" width="80"></a>
+</p>
+
+Craig-as-a-Service is a white-label implementation of [Ghosttown](https://github.com/krivitsky/ghosttown) — the open-source expert IA extraction framework.
+
+Ghosttown's four-pass pipeline (heuristics → principles → biases → voice) was run over Craig's email corpus to produce the persona that powers this repo. The structure here — corpus, extraction, packaged skill — is the same pattern Ghosttown automates for any expert.
+
+Craig-as-a-Service was the hand-built proof of concept. Ghosttown is the factory.
+
+- This repo is a standalone Ghosttown dataset, scoped to one person
+- The `/craig` skill is what a Ghosttown-produced ghost looks like when shipped as its own product
+- To build something like this for a different expert: [Ghosttown →](https://github.com/krivitsky/ghosttown)
