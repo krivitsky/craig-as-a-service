@@ -119,7 +119,7 @@ Envisions new HR archetype: **"product developer"** with multi-learning career p
 
 ---
 
-## 👻 Built on Ghosttown
+## 👻 Ghost Is Out of Town: Craig as a Service
 
 <p align="center">
   <a href="https://github.com/krivitsky/ghosttown"><img src="https://raw.githubusercontent.com/krivitsky/ghosttown/main/images/logo.png" alt="Ghosttown" width="80"></a>
