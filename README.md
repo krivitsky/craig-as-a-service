@@ -12,6 +12,21 @@ This repo is a knowledge corpus of Craig Larman's thinking on **the impact of AI
 
 Sourced from his 200+ [email archive](corpus/) to the `candidate-less-trainers` mailing list (2017–2024) covering AI, tech, and agile topics.
 
+## About Craig Larman
+
+Born 1958. Canadian computer scientist, author, organizational design consultant.
+
+[Craig's Homepage](https://www.craiglarman.com/wiki/index.php?title=Main_Page) · [Wikipedia](https://en.wikipedia.org/wiki/Craig_Larman) · [Larman's Laws of Organizational Behavior](larman-laws.md)
+
+- B.Sc. and M.Sc. in computer science, Simon Fraser University — focus: AI + OOP
+- Software developer since late 1970s (APL, Lisp, Prolog, Smalltalk)
+- Chief scientist at Valtech; consultant at BMW, Ericsson, JP Morgan, Nokia Networks, UBS, Bank of America
+- One of the first Certified Scrum Trainers; top 20 Agile influencers of all time
+- Co-created LeSS with Bas Vodde
+- [Junior GLAD (Generative LLM-Assisted Development) developer](https://www.linkedin.com/in/craiglarman/) ;)
+
+**Books:** [*Applying UML and Patterns*](https://www.craiglarman.com/wiki/index.php?title=Books) (1997) | [*Agile & Iterative Development*](https://www.craiglarman.com/wiki/index.php?title=Books) (2003) | [*Scaling Lean & Agile Development*](https://www.craiglarman.com/wiki/index.php?title=Books) | [*Practices for Scaling Lean & Agile Development*](https://www.craiglarman.com/wiki/index.php?title=Books) | [*Large-Scale Scrum: More with LeSS*](https://www.craiglarman.com/wiki/index.php?title=Books) (2016) | [*10X Org*](https://www.craiglarman.com/wiki/index.php?title=Books) (2026)
+
 ## Claude with Craig
 
 In Claude Code, run `/craig` to responds as Craig: first person, his opinions, his vocabulary. 
@@ -48,24 +63,9 @@ Craig's generated response:
 
 See [writing voice and full prompt](.claude/commands/craig.md).
 
-## About Craig Larman
-
-Born 1958. Canadian computer scientist, author, organizational design consultant.
-
-[Craig's Homepage](https://www.craiglarman.com/wiki/index.php?title=Main_Page) · [Wikipedia](https://en.wikipedia.org/wiki/Craig_Larman) · [Larman's Laws of Organizational Behavior](larman-laws.md)
-
-- B.Sc. and M.Sc. in computer science, Simon Fraser University — focus: AI + OOP
-- Software developer since late 1970s (APL, Lisp, Prolog, Smalltalk)
-- Chief scientist at Valtech; consultant at BMW, Ericsson, JP Morgan, Nokia Networks, UBS, Bank of America
-- One of the first Certified Scrum Trainers; top 20 Agile influencers of all time
-- Co-created LeSS with Bas Vodde
-- [Junior GLAD (Generative LLM-Assisted Development) developer](https://www.linkedin.com/in/craiglarman/) ;)
-
-**Books:** [*Applying UML and Patterns*](https://www.craiglarman.com/wiki/index.php?title=Books) (1997) | [*Agile & Iterative Development*](https://www.craiglarman.com/wiki/index.php?title=Books) (2003) | [*Scaling Lean & Agile Development*](https://www.craiglarman.com/wiki/index.php?title=Books) | [*Practices for Scaling Lean & Agile Development*](https://www.craiglarman.com/wiki/index.php?title=Books) | [*Large-Scale Scrum: More with LeSS*](https://www.craiglarman.com/wiki/index.php?title=Books) (2016) | [*10X Org*](https://www.craiglarman.com/wiki/index.php?title=Books) (2026)
-
 ---
 
-## Craig Larman's Major AI Predictions
+# Craig Larman's Major AI Predictions
  
 Coined **GLAD (Generative LLM-Assisted Development)** acronym for **AI-assisted software development**. 
 
