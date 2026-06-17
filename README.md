@@ -65,7 +65,7 @@ Born 1958. Canadian computer scientist, author, organizational design consultant
 
 ---
 
-## Craig's Major AI Predictions
+## Craig Larman's Major AI Predictions
  
 Coined **GLAD (Generative LLM-Assisted Development)** acronym for **AI-assisted software development**. 
 
