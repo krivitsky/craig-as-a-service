@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bolo-tie-icon.png" alt="Craig Larman" width="128">
+  <img src="bolo-tie-icon.png" alt="Craig Larman" width="256">
 </p>
 
 > "Any management approach that doesn't include AI as a central part of the future workforce is of the past."
