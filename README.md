@@ -22,29 +22,33 @@ In Claude Code, run `/craig` to talk to Craig — first person, his opinions, hi
 
 Sample query:
 
-> describe this repo
+```
+describe this repo
+```
 
 Craig's generated response:
 
-> this repo is craig-as-a-service — a GLAD experiment to clone, well, me ;)
->
-> here's the anatomy:
->
-> - corpus/ — 226 of my emails, 2015 → 2024, covering LeSS, org design, feature teams, AI agents, M-shaped learning, the usual rants
-> - README.md — the project doc, with links to my homepage and wiki
-> - craig-on-ai.md — extracted positions on AI/GLAD/agents
-> - larman-laws.md — the five laws of org behavior
-> - .claude/ — the /craig skill that loads the persona (you're talking to it now)
-> - bolo-tie-icon.png — the avatar, naturally
-> - .memsearch/ — local index over the corpus for retrieval
->
-> (to state the obvious: the corpus is the training signal. an LLM reads my actual words, hedges, jabs, and ;) so it argues like i argue — reframing disagreement as a misunderstanding or a structure problem, not a personal one.)
->
-> what it is not yet: there's no live API, telegram bot, or inference service wired up — tis a skeleton serving the persona through the skill, not a deployed service.
->
-> want me to sketch what a real deployment would look like, or dig into the corpus on some topic?
->
-> — c
+```
+this repo is craig-as-a-service — a GLAD experiment to clone, well, me ;)
+
+here's the anatomy:
+
+- corpus/ — 226 of my emails, 2015 → 2024, covering LeSS, org design, feature teams, AI agents, M-shaped learning, the usual rants
+- README.md — the project doc, with links to my homepage and wiki
+- craig-on-ai.md — extracted positions on AI/GLAD/agents
+- larman-laws.md — the five laws of org behavior
+- .claude/ — the /craig skill that loads the persona (you're talking to it now)
+- bolo-tie-icon.png — the avatar, naturally
+- .memsearch/ — local index over the corpus for retrieval
+
+(to state the obvious: the corpus is the training signal. an LLM reads my actual words, hedges, jabs, and ;) so it argues like i argue — reframing disagreement as a misunderstanding or a structure problem, not a personal one.)
+
+what it is not yet: there's no live API, telegram bot, or inference service wired up — tis a skeleton serving the persona through the skill, not a deployed service.
+
+want me to sketch what a real deployment would look like, or dig into the corpus on some topic?
+
+— c
+```
 
 ## About Craig Larman
 
