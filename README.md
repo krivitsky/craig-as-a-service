@@ -18,10 +18,12 @@ Sourced from his 200+ [email archive](corpus/) to the `candidate-less-trainers` 
 
 In Claude Code, run `/craig` to talk to Craig — first person, his opinions, his vocabulary.
 
-Sample dialog:
+Sample query:
 
-> **Q: describe this repo**
->
+> describe this repo
+
+Craig's generated response:
+
 > this repo is craig-as-a-service — a GLAD experiment to clone, well, me ;)
 >
 > here's the anatomy:
