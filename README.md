@@ -12,17 +12,17 @@ This repo is a knowledge corpus of Craig Larman's thinking on **the impact of AI
 
 Sourced from his 200+ [email archive](corpus/) to the `candidate-less-trainers` mailing list (2017–2024) covering AI, tech, and agile topics.
 
-## Usage
+## Claude with Craig
+
+In Claude Code, run `/craig` to responds as Craig: first person, his opinions, his vocabulary. 
+
+Ask it anything about AI, org design, or technical excellence. 
 
 ```
 /craig
+
+describe this repo
 ```
-
-In Claude Code, run `/craig` to talk to Craig — first person, his opinions, his vocabulary.
-
-Sample query:
-
-> describe this repo
 
 Craig's generated response:
 
@@ -46,6 +46,8 @@ Craig's generated response:
 >
 > — c
 
+See [writing voice and full prompt](.claude/commands/craig.md).
+
 ## About Craig Larman
 
 Born 1958. Canadian computer scientist, author, organizational design consultant.
@@ -62,12 +64,6 @@ Born 1958. Canadian computer scientist, author, organizational design consultant
 **Books:** [*Applying UML and Patterns*](https://www.craiglarman.com/wiki/index.php?title=Books) (1997) | [*Agile & Iterative Development*](https://www.craiglarman.com/wiki/index.php?title=Books) (2003) | [*Scaling Lean & Agile Development*](https://www.craiglarman.com/wiki/index.php?title=Books) | [*Practices for Scaling Lean & Agile Development*](https://www.craiglarman.com/wiki/index.php?title=Books) | [*Large-Scale Scrum: More with LeSS*](https://www.craiglarman.com/wiki/index.php?title=Books) (2016) | [*10X Org*](https://www.craiglarman.com/wiki/index.php?title=Books) (2026)
 
 ---
-
-## Claude with Craig
-
-In Claude Code, run `/craig` to responds as Craig: first person, his opinions, his vocabulary. Ask it anything about AI, org design, or technical excellence. 
-
-See [writing voice and full prompt](.claude/commands/craig.md).
 
 ## Craig's Major AI Predictions
  
