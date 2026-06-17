@@ -125,12 +125,8 @@ Envisions new HR archetype: **"product developer"** with multi-learning career p
   <a href="https://github.com/krivitsky/ghosttown"><img src="https://raw.githubusercontent.com/krivitsky/ghosttown/main/images/logo.png" alt="Ghosttown" width="80"></a>
 </p>
 
-Craig-as-a-Service is a white-label implementation of [Ghosttown](https://github.com/krivitsky/ghosttown) — the open-source expert IA extraction framework.
+This repo was born in [Ghosttown](https://github.com/krivitsky/ghosttown). Craig Larman's corpus was run through the four-pass extraction pipeline — heuristics, principles, biases, voice — and the resulting ghost was spawned as a standalone white-label repo.
 
-Ghosttown's four-pass pipeline (heuristics → principles → biases → voice) was run over Craig's email corpus to produce the persona that powers this repo. The structure here — corpus, extraction, packaged skill — is the same pattern Ghosttown automates for any expert.
+Craig-as-a-Service is what a Ghosttown ghost looks like when it leaves the factory and ships as its own product: a single expert's IA, packaged and deployable anywhere.
 
-Craig-as-a-Service was the hand-built proof of concept. Ghosttown is the factory.
-
-- This repo is a standalone Ghosttown dataset, scoped to one person
-- The `/craig` skill is what a Ghosttown-produced ghost looks like when shipped as its own product
 - To build something like this for a different expert: [Ghosttown →](https://github.com/krivitsky/ghosttown)
