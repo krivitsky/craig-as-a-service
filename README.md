@@ -1,4 +1,14 @@
 <p align="center">
+  <a href="https://github.com/krivitsky/ghosttown"><img src="https://raw.githubusercontent.com/krivitsky/ghosttown/main/images/logo.png" alt="Ghosttown" width="96"></a>
+</p>
+
+<p align="center">
+  👻 A white-label <a href="https://github.com/krivitsky/ghosttown">Ghosttown</a> implementation — Craig Larman's corpus extracted into a standalone IA persona.
+</p>
+
+---
+
+<p align="center">
   <img src="images/bolo-tie-icon.png" alt="Craig Larman" width="256">
 </p>
 
