@@ -75,14 +75,13 @@ Advocates replacing **single-skill roles** with **"primary + secondary + tertiar
 
 Envisions new HR archetype: **"product developer"** with multi-learning career path.
 
-Key ideas:
+In "1000 futures would bet 700+" on these big ideas:
 
 - **GLAD** is "the largest & most disruptive event in sw dev, ever."
 - **AI agents** dominant by ~2026
 - **o3** hitting 85% **ARC-AGI** — possibly historic
 - **Programming = last job standing**
-- Single-specialist roles become nonsensical
-- In 1000 futures would bet 700+ on most of this
+- **Single-specialist** roles become nonsensical
 
 [Craig's distilled predictions on AI from the email archive](craig-on-ai.md)
 
