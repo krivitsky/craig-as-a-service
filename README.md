@@ -75,7 +75,7 @@ Advocates replacing **single-skill roles** with **"primary + secondary + tertiar
 
 Envisions new HR archetype: **"product developer"** with multi-learning career path.
 
-In "1000 futures would bet 700+" on these big ideas:
+"In 1000 futures would bet 700+" on these big ideas:
 
 - **GLAD** is "the largest & most disruptive event in sw dev, ever."
 - **AI agents** dominant by ~2026
